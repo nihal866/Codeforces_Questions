@@ -1,0 +1,1 @@
+{"name":"Local: DP_Subset_Sum_Problem","url":"g:\\codeforces\\DP_Subset_Sum_Problem.cpp","tests":[{"id":1626232371944,"input":"6\n3 34 4 12 5 2\n9","output":"1"},{"id":1626232414457,"input":"6\n3 34 4 12 5 2\n30","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\codeforces\\DP_Subset_Sum_Problem.cpp","group":"local","local":true}

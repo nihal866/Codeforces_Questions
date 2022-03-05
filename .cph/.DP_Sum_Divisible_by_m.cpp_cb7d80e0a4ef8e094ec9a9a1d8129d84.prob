@@ -1,0 +1,1 @@
+{"name":"Local: DP_Sum_Divisible_by_m","url":"g:\\codeforces\\DP_Sum_Divisible_by_m.cpp","tests":[{"id":1626785613999,"input":"4 6 \n3 1 7 5","output":"1"},{"id":1626785639328,"input":"3 5\n1 2 6","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\codeforces\\DP_Sum_Divisible_by_m.cpp","group":"local","local":true}

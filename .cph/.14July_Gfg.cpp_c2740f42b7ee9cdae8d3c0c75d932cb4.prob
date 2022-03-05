@@ -1,0 +1,1 @@
+{"name":"Local: 14July_Gfg","url":"g:\\codeforces\\14July_Gfg.cpp","tests":[{"id":1626234541932,"input":"5\n1 1 2 5 5","output":"2"},{"id":1626234578398,"input":"7\n2 2 5 5 20 30 30","output":"20"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\codeforces\\14July_Gfg.cpp","group":"local","local":true}

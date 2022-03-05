@@ -1,0 +1,1 @@
+{"name":"Local: 327A","url":"g:\\codeforces\\327A.cpp","tests":[{"id":1627183572393,"input":"5\n1 0 0 1 0","output":"4"},{"id":1627183586888,"input":"4\n1 0 0 1","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\codeforces\\327A.cpp","group":"local","local":true}
